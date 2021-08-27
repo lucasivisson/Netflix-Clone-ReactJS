@@ -1,3 +1,32 @@
+# Netflix Clone
+
+This project is a clone of the netflix splash screen
+
+## Technologies
+
+This project was done using the [JavaScript](https://www.javascript.com/) language and the [ReactJS](https://pt-br.reactjs.org/) framework.
+
+## Getting Started
+
+1. Clone this project on your machine using "git clone https://github.com/lucasivisson/Netflix-Clone-ReactJS.git".
+2. Choose an editor of your choice (I recommend Visual Studio Code or Android Studio) and open the application with your editor.
+3. Connect your smartphone to your computer to run the application or use a smartphone emulator.
+4. Start the application using "yarn start".
+
+## Screenshots
+
+<img src='/img/netflix.png' width='360px;' alt='Screenshot'>
+
+## Contributing
+
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and open a pull request.
+
+1. Fork this repository.
+2. Create your feature branch: git checkout -b my-new-feature
+3. Commit your changes: git commit -m 'Add some feature'
+4. Push to the branch: git push origin my-new-feature
+5. Submit a pull request.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +97,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+
+<a>
+ <img src='https://avatars3.githubusercontent.com/u/53708095?s=400&u=7b08c330b12ab8414fc7a3909566266b8c8dfe22&v=4' width='100px'; height='100px' alt='Lucas Ivisson'/>
+ <a href="https://github.com/lucasivisson"> Lucas Ivisson </a>
+ </a>
+
+## License
+
+Made with ❤️ by Lucas Ivisson 👋🏽
