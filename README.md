@@ -15,7 +15,7 @@ This project was done using the [JavaScript](https://www.javascript.com/) langua
 
 ## Screenshots
 
-<img src='/img/netflix.png' width='360px;' alt='Screenshot'>
+<img src='src/img/netflix.png' width='360px;' alt='Screenshot'>
 
 ## Contributing
 
