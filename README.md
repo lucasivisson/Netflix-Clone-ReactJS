@@ -1,6 +1,8 @@
 # Netflix Clone
 
-This project is a clone of the netflix splash screen
+
+This project is a clone of the netflix splash screen made during the [live](This project is a clone of the netflix splash screen made during the course.) of
+Bonieky Lacerda
 
 ## Technologies
 
@@ -106,5 +108,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  </a>
 
 ## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/lucasivisson/Netflix-Clone-ReactJS/blob/master/LICENSE.md) file for details
 
 Made with ❤️ by Lucas Ivisson 👋🏽
