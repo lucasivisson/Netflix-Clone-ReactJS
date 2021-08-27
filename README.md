@@ -27,7 +27,7 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
